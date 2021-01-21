@@ -13,6 +13,10 @@
     "grunt": "^1.0.2",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-responsive-images": "^1.10.1"
+    "grunt-responsive-images": "^1.10.1",
+    "minimist": ">=1.2.3"
+  },
+  "dependencies": {
+    "minimist": ">=1.2.3"
   }
 }
